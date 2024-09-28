@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.mingit/
+*.log
+.DS_Store
+node_modules/
+backend/fetagram_clean.db
+admin-dashboard/
+fetagram-admin-dashboard/
